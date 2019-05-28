@@ -1,0 +1,7 @@
+C:\Users\FALCON\source\repos\3D points\3D points\bin\Debug\3D points.exe.config
+C:\Users\FALCON\source\repos\3D points\3D points\bin\Debug\3D points.exe
+C:\Users\FALCON\source\repos\3D points\3D points\bin\Debug\3D points.pdb
+C:\Users\FALCON\source\repos\3D points\3D points\obj\Debug\3D points.csprojAssemblyReference.cache
+C:\Users\FALCON\source\repos\3D points\3D points\obj\Debug\3D points.csproj.CoreCompileInputs.cache
+C:\Users\FALCON\source\repos\3D points\3D points\obj\Debug\3D points.exe
+C:\Users\FALCON\source\repos\3D points\3D points\obj\Debug\3D points.pdb
